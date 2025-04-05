@@ -41,4 +41,3 @@
 //     resultsArr.push(result);
 // }
 // console.log(resultsArr);
-// kya likhu
