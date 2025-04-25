@@ -97,8 +97,8 @@
 //         age: 21
 //     }
 
-const person = {
-    firstName: "Nisha", 
-    ,
-    age:21,
-}
+// const person = {
+//     firstName: "Nisha", 
+//     ,
+//     age:21,
+// }
